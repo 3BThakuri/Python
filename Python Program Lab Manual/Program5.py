@@ -5,8 +5,8 @@ num=int(input("Enter a Number: "))
 
 
 if num%2==0:
-    print("Num is even")
+    print("Number is even")
 else:
-    print("Num is odd")
+    print("Number is odd")
     
 
