@@ -1,1 +1,2 @@
-# comming Soon
+# comming Soon......
+print('Comming Soon')
