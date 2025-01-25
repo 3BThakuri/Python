@@ -1,4 +1,4 @@
-#check given number prime or not
+# check given number prime or not
 n=int(input("Enter Number: "))
 
 
