@@ -1,4 +1,4 @@
-# write a program to print all even number
+# write a program user input to print all even number
 
 n=int(input("enter your number: "))
 
